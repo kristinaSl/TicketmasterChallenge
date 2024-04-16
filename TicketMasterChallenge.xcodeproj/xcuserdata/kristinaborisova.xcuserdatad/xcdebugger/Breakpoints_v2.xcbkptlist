@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "843CE827-4A2E-42F1-BEAC-85CD40CFEFE0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD932E49-87A1-4F28-926C-2FE845B868FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicketMasterChallengeTests/Mocks/MockEventsApiManagerFail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "read(eventID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD61BEA0-B6FE-4BD7-B7D4-45AA52D7C92B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicketMasterChallengeTests/ViewModelsTests/EventDetailsViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "didFailWithError(viewModel:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB396D5F-60A7-446B-A661-CDBB791E5F61"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicketMasterChallenge/ViewModels/EventDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F397008D-72D2-4022-B490-9C4DF146D2B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicketMasterChallenge/Models/Page.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "CodingKeys"
+            landmarkType = "13">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8744CE8-2571-429E-98C0-DF3C2D2241EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicketMasterChallenge/ViewControllers/EventsListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "updateSearchResults(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C8744CE8-2571-429E-98C0-DF3C2D2241EF - 19440faf77a5245d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicketMasterChallenge.EventsListViewController.updateSearchResults(for: __C.UISearchController) -&gt; ()"
+                  moduleName = "TicketMasterChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristinaborisova/Desktop/TicketMasterChallenge/TicketMasterChallenge/ViewControllers/EventsListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "99">
+               </Location>
+               <Location
+                  uuid = "C8744CE8-2571-429E-98C0-DF3C2D2241EF - 19440faf77a5245d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicketMasterChallenge.EventsListViewController.updateSearchResults(for: __C.UISearchController) -&gt; ()"
+                  moduleName = "TicketMasterChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristinaborisova/Desktop/TicketMasterChallenge/TicketMasterChallenge/ViewControllers/EventsListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "407">
+               </Location>
+               <Location
+                  uuid = "C8744CE8-2571-429E-98C0-DF3C2D2241EF - 19440faf77a5247e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicketMasterChallenge.EventsListViewController.updateSearchResults(for: __C.UISearchController) -&gt; ()"
+                  moduleName = "TicketMasterChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristinaborisova/Desktop/TicketMasterChallenge/TicketMasterChallenge/ViewControllers/EventsListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "99">
+               </Location>
+               <Location
+                  uuid = "C8744CE8-2571-429E-98C0-DF3C2D2241EF - 19440faf77a5247e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicketMasterChallenge.EventsListViewController.updateSearchResults(for: __C.UISearchController) -&gt; ()"
+                  moduleName = "TicketMasterChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristinaborisova/Desktop/TicketMasterChallenge/TicketMasterChallenge/ViewControllers/EventsListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "407">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

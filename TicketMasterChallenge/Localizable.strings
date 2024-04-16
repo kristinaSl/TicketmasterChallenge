@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  TicketMasterChallenge
+
+  Created by Kristina Borisova on 15/04/2024.
+  
+*/
+
+"FoundationError" = "Error";
+"FoundationRetry" = "Retry";
+"FoundationCancel" = "Cancel";
+"EventsListControllerNavigationBarTitle" = "Events";
+"EventsListControllerSearchBarPlaceholder" = "Enter event name";
+"EventsListControllerNoEvents" = "Sorry, no events have been fount :(";

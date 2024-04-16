@@ -1,0 +1,502 @@
+{
+    "name": "Minnesota Timberwolves vs. Phoenix Suns",
+    "type": "event",
+    "id": "Z7r9jZ1AdJ9AK",
+    "test": false,
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AdJ9AK",
+    "locale": "en-us",
+    "images": [
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+        },
+        {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+        },
+        {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+        },
+        {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": true
+        },
+        {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+        }
+    ],
+    "sales": {
+        "public": {
+            "startDateTime": "1900-01-01T18:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2024-04-14T19:30:00Z"
+        }
+    },
+    "dates": {
+        "start": {
+            "localDate": "2024-04-14",
+            "localTime": "14:30:00",
+            "dateTime": "2024-04-14T19:30:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+        },
+        "status": {
+            "code": "onsale"
+        },
+        "spanMultipleDays": false
+    },
+    "classifications": [
+        {
+            "primary": true,
+            "segment": {
+                "id": "KZFzniwnSyZfZ7v7nE",
+                "name": "Sports"
+            },
+            "genre": {
+                "id": "KnvZfZ7vAde",
+                "name": "Basketball"
+            },
+            "subGenre": {
+                "id": "KZazBEonSMnZfZ7vFJA",
+                "name": "NBA"
+            },
+            "family": false
+        }
+    ],
+    "outlets": [
+        {
+            "url": "https://www.ticketmaster.com/minnesota-timberwolves-vs-phoenix-suns-minneapolis-minnesota-04-14-2024/event/Zu0FM1R0e5tf154",
+            "type": "tmMarketPlace"
+        }
+    ],
+    "seatmap": {
+        "staticUrl": "https://content.resale.ticketmaster.com/graphics/TMResale/1/VenueMaps/1663-553-3-0-TargetCenterMinnesotaTimberwolves75244.png"
+    },
+    "ticketing": {
+        "allInclusivePricing": {
+            "enabled": false
+        }
+    },
+    "_links": {
+        "self": {
+            "href": "/discovery/v2/events/Z7r9jZ1AdJ9AK?locale=en-us"
+        },
+        "attractions": [
+            {
+                "href": "/discovery/v2/attractions/K8vZ9171o10?locale=en-us"
+            },
+            {
+                "href": "/discovery/v2/attractions/K8vZ9171oZf?locale=en-us"
+            }
+        ],
+        "venues": [
+            {
+                "href": "/discovery/v2/venues/ZFr9jZe667?locale=en-us"
+            }
+        ]
+    },
+    "_embedded": {
+        "venues": [
+            {
+                "name": "Target Center",
+                "type": "venue",
+                "id": "ZFr9jZe667",
+                "test": false,
+                "locale": "en-us",
+                "postalCode": "55403",
+                "timezone": "America/Chicago",
+                "city": {
+                    "name": "Minneapolis"
+                },
+                "state": {
+                    "name": "Minnesota",
+                    "stateCode": "MN"
+                },
+                "country": {
+                    "name": "United States Of America",
+                    "countryCode": "US"
+                },
+                "address": {
+                    "line1": "600 First Ave. North"
+                },
+                "location": {
+                    "longitude": "-93.286102",
+                    "latitude": "44.970299"
+                },
+                "dmas": [
+                    {
+                        "id": 336
+                    }
+                ],
+                "upcomingEvents": {
+                    "tmr": 49,
+                    "_total": 49,
+                    "_filtered": 0
+                },
+                "_links": {
+                    "self": {
+                        "href": "/discovery/v2/venues/ZFr9jZe667?locale=en-us"
+                    }
+                }
+            }
+        ],
+        "attractions": [
+            {
+                "name": "Minnesota Timberwolves",
+                "type": "attraction",
+                "id": "K8vZ9171o10",
+                "test": false,
+                "url": "https://www.ticketmaster.com/minnesota-timberwolves-tickets/artist/805971",
+                "locale": "en-us",
+                "externalLinks": {
+                    "twitter": [
+                        {
+                            "url": "https://twitter.com/timberwolves"
+                        }
+                    ],
+                    "wiki": [
+                        {
+                            "url": "https://en.wikipedia.org/wiki/Minnesota_Timberwolves"
+                        }
+                    ],
+                    "facebook": [
+                        {
+                            "url": "https://www.facebook.com/MNTimberwolves"
+                        }
+                    ],
+                    "instagram": [
+                        {
+                            "url": "https://www.instagram.com/timberwolves"
+                        }
+                    ],
+                    "homepage": [
+                        {
+                            "url": "https://www.nba.com/timberwolves/"
+                        }
+                    ]
+                },
+                "images": [
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_RECOMENDATION_16_9.jpg",
+                        "width": 100,
+                        "height": 56,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_RETINA_PORTRAIT_3_2.jpg",
+                        "width": 640,
+                        "height": 427,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_RETINA_PORTRAIT_16_9.jpg",
+                        "width": 640,
+                        "height": 360,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_RETINA_LANDSCAPE_16_9.jpg",
+                        "width": 1136,
+                        "height": 639,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_TABLET_LANDSCAPE_3_2.jpg",
+                        "width": 1024,
+                        "height": 683,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_EVENT_DETAIL_PAGE_16_9.jpg",
+                        "width": 205,
+                        "height": 115,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_TABLET_LANDSCAPE_16_9.jpg",
+                        "width": 1024,
+                        "height": 576,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "4_3",
+                        "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_CUSTOM.jpg",
+                        "width": 305,
+                        "height": 225,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                        "width": 2048,
+                        "height": 1152,
+                        "fallback": true
+                    },
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/c70/98044e71-9085-471b-9f21-78525c745c70_1340061_ARTIST_PAGE_3_2.jpg",
+                        "width": 305,
+                        "height": 203,
+                        "fallback": false
+                    }
+                ],
+                "classifications": [
+                    {
+                        "primary": true,
+                        "segment": {
+                            "id": "KZFzniwnSyZfZ7v7nE",
+                            "name": "Sports"
+                        },
+                        "genre": {
+                            "id": "KnvZfZ7vAde",
+                            "name": "Basketball"
+                        },
+                        "subGenre": {
+                            "id": "KZazBEonSMnZfZ7vFJA",
+                            "name": "NBA"
+                        },
+                        "type": {
+                            "id": "KZAyXgnZfZ7v7l1",
+                            "name": "Group"
+                        },
+                        "subType": {
+                            "id": "KZFzBErXgnZfZ7vA7d",
+                            "name": "Team"
+                        },
+                        "family": false
+                    }
+                ],
+                "upcomingEvents": {
+                    "tmr": 17,
+                    "_total": 17,
+                    "_filtered": 0
+                },
+                "_links": {
+                    "self": {
+                        "href": "/discovery/v2/attractions/K8vZ9171o10?locale=en-us"
+                    }
+                }
+            },
+            {
+                "name": "Phoenix Suns",
+                "type": "attraction",
+                "id": "K8vZ9171oZf",
+                "test": false,
+                "url": "https://www.ticketmaster.com/phoenix-suns-tickets/artist/806004",
+                "locale": "en-us",
+                "externalLinks": {
+                    "twitter": [
+                        {
+                            "url": "https://twitter.com/Suns"
+                        }
+                    ],
+                    "wiki": [
+                        {
+                            "url": "https://en.wikipedia.org/wiki/Phoenix_Suns"
+                        }
+                    ],
+                    "facebook": [
+                        {
+                            "url": "https://www.facebook.com/suns/"
+                        }
+                    ],
+                    "instagram": [
+                        {
+                            "url": "https://www.instagram.com/suns/"
+                        }
+                    ],
+                    "homepage": [
+                        {
+                            "url": "https://www.nba.com/suns/"
+                        }
+                    ]
+                },
+                "aliases": [
+                    "phoenix",
+                    "suns",
+                    "phoenix suns exchange",
+                    "phoenix suns team exchange",
+                    "phoenix suns season ticket holders",
+                    "phoenix suns season tix holders",
+                    "phoenix suns ticket exchange",
+                    "suns exchange",
+                    "suns season ticket holders",
+                    "suns season tix holders",
+                    "suns team exchange",
+                    "suns ticket exchange"
+                ],
+                "images": [
+                    {
+                        "ratio": "4_3",
+                        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_CUSTOM.jpg",
+                        "width": 305,
+                        "height": 225,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_16_9.jpg",
+                        "width": 640,
+                        "height": 360,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_EVENT_DETAIL_PAGE_16_9.jpg",
+                        "width": 205,
+                        "height": 115,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_ARTIST_PAGE_3_2.jpg",
+                        "width": 305,
+                        "height": 203,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_16_9.jpg",
+                        "width": 1024,
+                        "height": 576,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_3_2.jpg",
+                        "width": 640,
+                        "height": 427,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_3_2.jpg",
+                        "width": 1024,
+                        "height": 683,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_LANDSCAPE_16_9.jpg",
+                        "width": 1136,
+                        "height": 639,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RECOMENDATION_16_9.jpg",
+                        "width": 100,
+                        "height": 56,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_SOURCE",
+                        "width": 2048,
+                        "height": 1152,
+                        "fallback": false
+                    }
+                ],
+                "classifications": [
+                    {
+                        "primary": true,
+                        "segment": {
+                            "id": "KZFzniwnSyZfZ7v7nE",
+                            "name": "Sports"
+                        },
+                        "genre": {
+                            "id": "KnvZfZ7vAde",
+                            "name": "Basketball"
+                        },
+                        "subGenre": {
+                            "id": "KZazBEonSMnZfZ7vFJA",
+                            "name": "NBA"
+                        },
+                        "type": {
+                            "id": "KZAyXgnZfZ7v7l1",
+                            "name": "Group"
+                        },
+                        "subType": {
+                            "id": "KZFzBErXgnZfZ7vA7d",
+                            "name": "Team"
+                        },
+                        "family": false
+                    }
+                ],
+                "upcomingEvents": {
+                    "tmr": 1,
+                    "ticketmaster": 17,
+                    "_total": 18,
+                    "_filtered": 0
+                },
+                "_links": {
+                    "self": {
+                        "href": "/discovery/v2/attractions/K8vZ9171oZf?locale=en-us"
+                    }
+                }
+            }
+        ]
+    }
+}
