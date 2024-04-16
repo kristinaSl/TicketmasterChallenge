@@ -1,6 +1,6 @@
 # Ticketmaster Technical Challenge
 
-This repo contains a small iOS project which fetches events from Ticketmaster API and displays them in a pagginated table. More details for the event can be viewed by selecting the event. 
+This repo contains a small iOS project which fetches events from Ticketmaster API and displays them in a pagginated table. More details about the event can be viewed by selecting the event. 
 
 ## How to run the application
 
@@ -12,7 +12,7 @@ This repo contains a small iOS project which fetches events from Ticketmaster AP
 
 The code follows the MVVM architecture and the navigation is handled by a coordinator.
 
-It is organised in a few folders:
+It is organized in a few folders:
 * ```API``` API integration.
 * ```Categories``` Categories extending existing functionality
 * ```Coordinators``` Coordinators handling navigation
@@ -24,7 +24,7 @@ It is organised in a few folders:
 
 CoreData is used to save downloaded images from the app as Data for faster loading when possible. 
 
-Note: The above image chashing machanisim is not suggested or optimal. Expesially considering that right now it does not clear the saved data. It was implemented with the sole puspose of demostrating the usage of CoreData. More suitable solution can be using a framework like SDWebImage.
+Note: The above image cashing machanisim is not suggested or optimal. Especially considering that right now it does not clear the saved data. It was implemented with the sole purpose of demonstrating the usage of CoreData. A more suitable solution could be using a framework like SDWebImage.
 
 ## Testing
 
